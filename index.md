@@ -1,3 +1,3 @@
-## Welcome to SurviveChinaFlu.com.
+# Survive the China Flu!
 
-Please check back soon.
+## Please check back soon.

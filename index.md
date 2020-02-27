@@ -1,4 +1,4 @@
-# Survive the China Flu!
+# Survive COVID-19, the China Flu!
 
 PREPARE NOW. Many emergency supplies are already severely depleted or gone. Do not believe the misinformation that other viruses (like the flu) are more dangerous and that there is no reason to be afraid. Remember when just a few weeks ago you were being told there was absolutely no concern whatsoever?
 
@@ -64,3 +64,9 @@ Buy lots of batteries for stuff that needs batteries (like flashlights).
 Consider having a cheap, simple way to heat water and cook, like a propane camping stove. You can buy an adapter hose to attach 20 lb propane tanks so you don't have to have a bunch of small propane tanks.
 
 Fire generates heat and light. Having various ways to make fire (and extinguish it) is helpful. Remember that fire likes fuel. DO NOT START AN INDOOR FIRE OUTSIDE A FIREPLACE. YOU WILL DIE.
+
+# Defense
+
+Most people will not prepare. If you prepare, you become a target for other people. Be prepared to do what needs to be done to protect your stuff. Generally speaking, guns beat other options. Armor helps too.
+
+Prepare to defend your stuff proportionally to its value.

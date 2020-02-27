@@ -2,7 +2,7 @@
 
 ## This website is regularly being updated. Check back frequently. Share it with your family and friends. Helping others prepare helps you stay safe as well.
 
-### Last Update: 23:44 Thursday, February 27, 2020
+### Last Update: 23:46 Thursday, February 27, 2020
 
 BE SMART AND FOLLOW ALL ADVICE AT YOUR OWN RISK! We are *not* affiliated with any company or brand listed on this site.
 
@@ -136,3 +136,7 @@ Prepare backup modes of communication. Assume possibilities like extended power/
 # Pets
 
 You probably want your fluffy companions to stay alive during and after this blows over, so be sure you set aside water, food, and any needed medical/other supplies for your pets, as well. Beyond companionship, which may be useful if you are socially isolated, our furry friends can be helpful to alert you to danger, scare off intruders, keep you warm, etc.
+
+# Feedback
+
+We welcome your feedback! Please [open an issue](https://github.com/survivechinaflu/survivechinafludotcom/issues) to discuss content or suggest a change.

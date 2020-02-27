@@ -13,9 +13,9 @@ Remember, you can only survive:
 
 # Prevention
 
-STOP TOUCHING YOUR FACE! WASH YOUR HANDS AFTER YOU 💩! STOP TOUCHING EVERYTHING! FFS, COVER YOUR MOUTH WHEN YOU COUGH AND SNEEZE!
+## STOP TOUCHING YOUR FACE! WASH YOUR HANDS AFTER YOU 💩! STOP TOUCHING ABSOLUTELY EVERYTHING!
 
-Other humans are your greatest risk. Get ready to avoid them for a while (like a month or more).
+Other humans are your greatest risk. Get ready to avoid them for a while (like a month or more). Treat sick people like the plague they are. If you're sick, try not to make other people sick. Cover your mouth and nose when you sneeze (with your ELBOW).
 
 # Food and Water
 

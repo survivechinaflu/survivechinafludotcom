@@ -2,7 +2,7 @@
 
 ## This website is regularly being updated. Check back frequently. Share it with your family and friends. Helping others prepare helps you stay safe as well.
 
-Last Update: 23:36 Thursday, February 27, 2020
+Last Update: 23:40 Thursday, February 27, 2020
 
 BE SMART AND FOLLOW ALL ADVICE AT YOUR OWN RISK! We are *not* affiliated with any company or brand listed on this site.
 
@@ -61,7 +61,7 @@ Have a supply of basic medical (first aid) supplies on hand -- bandages, Neospor
 
 Poor hygiene can quickly be lethal. Store extra toilet paper, paper towels, and baby wipes, along with extra trash bags. Include feminine hygiene products if anyone depends on them, and any other specific hygiene products you need.
 
-## Personal Safety Equipment
+## Personal Protective Equipment
 
 ### Gloves
 

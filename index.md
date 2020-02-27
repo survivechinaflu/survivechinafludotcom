@@ -33,4 +33,8 @@ Water and food are not enough to stay nourished and healthy. Have multivitamins 
 
 ## Medicines and Medications
 
-Store an excess of any important medications and medicines. Many of these are manufactured in China, and will run out.
+Store an excess of any important medications and medicines. Many of these are manufactured in China, and will run out. Don't forget birth control, pain killers, allergy medications, etc.
+
+## Hygiene
+
+Poor hygiene can quickly be lethal. Store extra toilet paper, paper towels, and baby wipes, along with extra trash bags. Include feminine hygiene products if anyone depends on them, and any other specific hygiene products you need.

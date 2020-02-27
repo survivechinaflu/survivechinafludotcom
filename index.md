@@ -49,6 +49,10 @@ Water and food are not enough to stay nourished and healthy. Have multivitamins 
 
 Store an excess of any important medications and medicines. Many of these are manufactured in China, and will run out. Don't forget birth control, pain killers, allergy medications, etc.
 
+## First Aid and Trauma Kits
+
+Have a supply of basic medical (first aid) supplies on hand -- bandages, Neosporin, hydrogen peroxide, and so on. You should also have some trauma supplies on hand, like tourniquets, QuikClot, sterile gauze, trauma shears, etc. Make sure you know how to use everything before you need to use it!
+
 ## Hygiene
 
 Poor hygiene can quickly be lethal. Store extra toilet paper, paper towels, and baby wipes, along with extra trash bags. Include feminine hygiene products if anyone depends on them, and any other specific hygiene products you need.
@@ -88,6 +92,14 @@ SpyderCo makes excellent pocket knives.
 The next step, if you are willing to be around people, is to get training from proven schools such as Thunder Ranch and Tactical Response. Mindset, skills, and tactics are more important than gear but quality gear will help in the long run. Shooting at static targets at the indoor range and gun fighting are entirely different things.
 
 A rifle isn't a bad option if you don't need to be covertly armed. Get an AR-15 or an AKM with as many magazines as you can afford. Your rifle will ideally also have a sling, weapon light, and RDS (Red Dot Sight)/LPVO(Low Power Variable Optic) on it.
+
+# Intelligence
+
+Be familiar with your surroundings -- all roads, terrain, locations of water and infrastructure, locations of emergency services, nearby hazards, etc. Consider likely escape and attack routes, chokepoints, and so on. Have an idea of who lives near you so that you can recognize strangers. Have paper road/topographical maps of your area. Determine possible local food/water/other resource sources.
+
+# Communication
+
+Prepare backup modes of communication. Assume possibilities like extended power/Internet/cell outages. Buy a ham radio and learn how to use it. (In certain emergency situations, you may be able to broadcast on certain frequencies without a license. If you have local friends/family who you trust, start making contingency plans now, particularly for communication.
 
 # Pets
 

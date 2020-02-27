@@ -29,7 +29,7 @@ Store 1200-2000 Calories worth of food per person, per day. Emergency food suppl
 
 ## Vitamins
 
-Have multivitamins on hand, and iodized salt to add to food. Electrolyte drink powder and/or electrolyte-rich drinks are helpful as well.
+Water and food are not enough to stay nourished and healthy. Have multivitamins on hand, and iodized salt to add to food. Electrolyte drink powder and/or electrolyte-rich drinks are helpful as well.
 
 ## Medicines and Medications
 

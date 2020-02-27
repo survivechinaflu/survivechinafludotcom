@@ -69,7 +69,7 @@ Powder-free medical-grade nitrile gloves should sufficiently protect your hands 
 
 ### Respirators and Masks
 
-Medical procedure masks are of some (limited) utility to avoid getting sick, but are mostly useful to avoid getting others sick. N95 respirators are significantly more effective *when worn correctly* (it should be hard to breathe) but are in extremely limited supply already. For complete protection, purchase a CBRN-rated (Chemical/Biological/Radiological/Nuclear) gas mask/respirator from a reputable company/country, and purchase new, unexpired CBRN filters to use with it.
+Medical procedure masks are of some (limited) utility to avoid getting sick, but are mostly useful to avoid getting others sick. N95 respirators (or N99, N100, P95, P99, or P100) are significantly more effective *when worn correctly* (it should be hard to breathe) but are in extremely limited supply already. For complete protection, purchase a CBRN-rated (Chemical/Biological/Radiological/Nuclear) gas mask/respirator from a reputable company/country, and purchase new, unexpired CBRN filters to use with it.
 
 Beware of counterfeit masks! It is also critically important that you not touch the outside of your mask and then touch something else (such as your face). Misuse will completely compromise their effectiveness. Be sure that your mouth *and* nose are both completely covered!
 

@@ -52,3 +52,15 @@ Poor hygiene can quickly be lethal. Store extra toilet paper, paper towels, and 
 Bleach is cheap and kills nearly everything. It can be used to sterilize things, sanitize water, etc. Have plenty of bleach on hand. Hand sanitizer (and the rubbing alcohol it contains) is also likely effective (and increasingly expensive and hard to find). Ozone (you can purchase ozone generators) and UV radiation (from sterilizing UV lights) are also likely to destroy the coronavirus, but are also dangerous to you (and anything alive) if misused.
 
 Regular soap is important. Wash your hands!
+
+# Power, Heat and Light
+
+A generator is useful. A generator that can run on gasoline and propane is even better. Generators like to stay dry, and they require fuel, and they like to generate toxic gasses, so keep all that in mind.
+
+Buy flashlights and candles. Lots.
+
+Buy lots of batteries for stuff that needs batteries (like flashlights).
+
+Consider having a cheap, simple way to heat water and cook, like a propane camping stove. You can buy an adapter hose to attach 20 lb propane tanks so you don't have to have a bunch of small propane tanks.
+
+Fire generates heat and light. Having various ways to make fire (and extinguish it) is helpful. Remember that fire likes fuel. DO NOT START AN INDOOR FIRE OUTSIDE A FIREPLACE. YOU WILL DIE.

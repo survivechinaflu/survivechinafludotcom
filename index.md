@@ -69,9 +69,21 @@ Fire generates heat and light. Having various ways to make fire (and extinguish 
 
 # Defense
 
-Most people will not prepare. If you prepare, you become a target for other people. Be prepared to do what needs to be done to protect your stuff. Generally speaking, guns beat other options. Armor helps too.
+Most people will not prepare. If you prepare, you become a target for other people. Be ready to do what needs to be done to protect your life and preps. Start with what is called first line gear. A quality belt, kydex holster, reliable pistol, flashlight, and knife. Carry an extra magazine incase the one in your gun fails.
 
-Prepare to defend your stuff proportionally to its value.
+The Beltman and Special Operation Equipment make excellent belts. 
+
+Glock 19 is ubiquoitous around the globe and owned be civlians and militaries alike, so parts and magazines are plentiful. Many other options are available, keep in mind availability of parts, magazines, and accessories for your pistol of choice. 
+
+Green Force Tactical and NSR Tactical make some of the best kydex holsters on the planet.
+
+Surefire is about as robust as you can get for flashlights.
+
+SpyderCo makes excellent pocket knives.
+
+The next step is to get training from proven schools such as Thunder Ranch and Tactical Response. Mindset, skills, and tactics are more important than gear but quality gear will help in the long run. 
+
+A rifle isn't a bad option if you don't need to worry about blantantly being armed. Get an AR-15 or an AKM with as many magazines as you can afford. Your rifle will ideally also have a sling, weapon light, and RDS (Red Dot Sight)/LPVO(Low Power Variable Optic) on it.
 
 # Pets
 

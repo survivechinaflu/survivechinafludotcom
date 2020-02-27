@@ -1,5 +1,7 @@
 # Survive COVID-19, the China Flu!
 
+## This website is regularly being updated. Check back frequently. Share it with your family and friends.
+
 PREPARE NOW. Many emergency supplies are already severely depleted or gone. Do not believe the misinformation that other viruses (like the flu) are more dangerous and that there is no reason to be afraid. Remember when just a few weeks ago you were being told there was absolutely no concern whatsoever?
 
 ## Survival Time:
@@ -70,3 +72,7 @@ Fire generates heat and light. Having various ways to make fire (and extinguish 
 Most people will not prepare. If you prepare, you become a target for other people. Be prepared to do what needs to be done to protect your stuff. Generally speaking, guns beat other options. Armor helps too.
 
 Prepare to defend your stuff proportionally to its value.
+
+# Pets
+
+You probably want your fluffy companions to stay alive during and after this blows over, so be sure you set aside water, food, and any needed medical/other supplies for your pets, as well. Beyond companionship, which may be useful if you are socially isolated, our furry friends can be helpful to alert you to danger, scare off intruders, keep you warm, etc.

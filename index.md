@@ -41,6 +41,8 @@ Store at least 1200-2000 Calories worth of food per person, per day. Emergency f
 
 Supplement with economical, shelf-stable goods like dried beans and rice, flour, etc. Consider buying from stores like Costco or commercial food suppliers (GFS, etc.). If you are depending on canned food, MAKE SURE YOU HAVE A CAN OPENER.
 
+In the long term, growing food (preferably indoors, with clean soil and artificial lighting) is your best bet for seriously long-term survival. Hunting will quickly deplete local fauna, and unprepared locals will deplete local flora. Beware eating animals that appear sick or that you find dead. You can become sick from eating infected meat.
+
 ## Vitamins
 
 Water and food are not enough to stay nourished and healthy. Have multivitamins on hand, and iodized salt to add to food. Electrolyte drink powder and/or electrolyte-rich drinks are helpful as well.
@@ -97,7 +99,9 @@ A rifle isn't a bad option if you don't need to be covertly armed. Get an AR-15 
 
 # Intelligence
 
-Be familiar with your surroundings -- all roads, terrain, locations of water and infrastructure, locations of emergency services, nearby hazards, etc. Consider likely escape and attack routes, chokepoints, and so on. Have an idea of who lives near you so that you can recognize strangers. Have paper road/topographical maps of your area. Determine possible local food/water/other resource sources.
+Be familiar with your surroundings -- all roads, terrain, locations of water and infrastructure, locations of emergency services, nearby hazards, etc. Consider likely escape and attack routes, chokepoints, and so on. Have paper road/topographical maps of your area. Determine possible local food/water/other resource sources.
+
+Have an idea of who lives near you so that you can recognize strangers. Develop good relationships with your neighbors if possible, but think twice about sharing information about how prepared you are (or are not). If things get real, your neighbors may be a source of new supplies for you. But remember: cannibalism is not only illegal, immoral, disgusting, and abhorrent, but also sick animals (including people) are not safe to eat.
 
 # Communication
 

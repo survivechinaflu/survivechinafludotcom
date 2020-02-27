@@ -2,7 +2,7 @@
 
 ## This website is regularly being updated. Check back frequently. Share it with your family and friends. Helping others prepare helps you stay safe as well.
 
-Last Update: 23:43 Thursday, February 27, 2020
+Last Update: 23:44 Thursday, February 27, 2020
 
 BE SMART AND FOLLOW ALL ADVICE AT YOUR OWN RISK! We are *not* affiliated with any company or brand listed on this site.
 
@@ -95,7 +95,7 @@ Washing your hands with soap and water is still important and helpful to avoid t
 
 A generator is useful. A generator that can run on gasoline and propane is even better. Generators like to stay dry, and they require fuel, and they like to generate toxic gasses, so keep all that in mind.
 
-Buy flashlights and candles. Lots.
+Buy flashlights and candles. Lots. Make sure you also have lots of ways to light the candles.
 
 Buy lots of batteries for stuff that needs batteries (like flashlights).
 

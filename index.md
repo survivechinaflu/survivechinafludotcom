@@ -2,6 +2,8 @@
 
 ## This website is regularly being updated. Check back frequently. Share it with your family and friends.
 
+Last Update: 04:55 UTC Thursday, February 27, 2020
+
 BE SMART AND FOLLOW ALL ADVICE AT YOUR OWN RISK! We are *not* affiliated with any company or brand listed on this site.
 
 PREPARE NOW. Many emergency supplies are already severely depleted or gone. Do not believe the misinformation that other viruses (like the flu) are more dangerous and that there is no reason to be afraid. Remember when just a few weeks ago you were being told there was absolutely no concern whatsoever?

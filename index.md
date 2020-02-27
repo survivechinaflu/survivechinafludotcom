@@ -99,7 +99,7 @@ Be familiar with your surroundings -- all roads, terrain, locations of water and
 
 # Communication
 
-Prepare backup modes of communication. Assume possibilities like extended power/Internet/cell outages. Buy a ham radio and learn how to use it. (In certain emergency situations, you may be able to broadcast on certain frequencies without a license. If you have local friends/family who you trust, start making contingency plans now, particularly for communication.
+Prepare backup modes of communication. Assume possibilities like extended power/Internet/cell outages. Buy a ham radio and learn how to use it. (In certain emergency situations, you may be able to broadcast on certain frequencies without a license.) If you have local friends/family who you trust, start making contingency plans now, particularly for communication.
 
 # Pets
 

@@ -2,7 +2,7 @@
 
 ## This website is regularly being updated. Check back frequently. Share it with your family and friends. Helping others prepare helps you stay safe as well.
 
-Last Update: 19:40 Thursday, February 27, 2020
+Last Update: 23:36 Thursday, February 27, 2020
 
 BE SMART AND FOLLOW ALL ADVICE AT YOUR OWN RISK! We are *not* affiliated with any company or brand listed on this site.
 
@@ -27,7 +27,7 @@ Other humans are your greatest risk. Get ready to avoid them for a while (like a
 
 ## Water
 
-Store one gallon of clean water per person, per day. This might sound like a lot, but one gallon per day is for drinking, rehydrating food, cleaning, hygiene, etc., and goes more quickly than you think.
+Store at least one gallon of clean water per person, per day. This might sound like a lot, but one gallon per day is for drinking, rehydrating food, cleaning, hygiene, etc., and goes more quickly than you think.
 
 Store as many gallons as you can (AT LEAST a week's worth per person). Buying commercially sealed bottled water is the easiest option, but it is more economical to sterilize and store your own water. The "WaterBrick" and the "WaterBOB" are two good options for storing water.
 

@@ -2,7 +2,7 @@
 
 ## This website is regularly being updated. Check back frequently. Share it with your family and friends. Helping others prepare helps you stay safe as well.
 
-Last Update: 23:40 Thursday, February 27, 2020
+Last Update: 23:43 Thursday, February 27, 2020
 
 BE SMART AND FOLLOW ALL ADVICE AT YOUR OWN RISK! We are *not* affiliated with any company or brand listed on this site.
 
@@ -83,7 +83,7 @@ Tyvek and Tychem suits may be useful to cover the rest of your body and clothing
 
 ### Contaminated Equipment
 
-Keep in mind that personal safety equipment will become contaminated if exposed to a pathogen. Have a plan to dispose of used safety equipment safely without contaminating your home or other "bunker" location.
+Keep in mind that equipment will become contaminated if exposed to a pathogen. Have a plan to dispose of used safety equipment safely without contaminating your home or other "bunker" location.
 
 ## Sanitation and Sterilization
 

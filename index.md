@@ -15,7 +15,7 @@ Remember, you can only survive:
 
 ## Water
 
-Store one gallon of clean water per person per day. This might sound like a lot, but one gallon per day is for drinking, rehydrating food, cleaning, hygiene, etc., and goes more quickly than you think.
+Store one gallon of clean water per person, per day. This might sound like a lot, but one gallon per day is for drinking, rehydrating food, cleaning, hygiene, etc., and goes more quickly than you think.
 
 Store as many gallons as you can (AT LEAST a week's worth per person). Buying commercially sealed bottled water is the easiest option, but it is more economical to sterilize and store your own water. The "WaterBrick" and the "WaterBOB" are two good options for storing water.
 
@@ -25,7 +25,7 @@ Wash your food-safe water container with dish soap and water and rinse thoroughl
 
 ## Food
 
-Store 1200-2000 Calories worth of food per person, per day. Emergency food supplies, MREs, and freeze dried food are all excellent options. They are also mostly depleted by this point. Supplement with economical, shelf-stable goods like dried beans and rice, flour, etc. Consider buying from stores like Costco or commercial food suppliers (GFS, etc.). Youo can also buy canned food. MAKE SURE YOU HAVE A CAN OPENER.
+Store 1200-2000 Calories worth of food per person, per day. Emergency food supplies, MREs, and freeze dried food are all excellent options. They are also mostly depleted by this point. Supplement with economical, shelf-stable goods like dried beans and rice, flour, etc. Consider buying from stores like Costco or commercial food suppliers (GFS, etc.). If you are depending on canned food, MAKE SURE YOU HAVE A CAN OPENER.
 
 ## Vitamins
 

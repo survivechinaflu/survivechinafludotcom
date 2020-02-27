@@ -11,7 +11,13 @@ Remember, you can only survive:
 * 3 minutes without oxygen
 * 3 seconds without a plan
 
-# Essentials
+# Prevention
+
+STOP TOUCHING YOUR FACE! WASH YOUR HANDS AFTER YOU 💩! STOP TOUCHING EVERYTHING! FFS, COVER YOUR MOUTH WHEN YOU COUGH AND SNEEZE!
+
+Other humans are your greatest risk. Get ready to avoid them for a while (like a month or more).
+
+# Food and Water
 
 ## Water
 
@@ -31,6 +37,8 @@ Store 1200-2000 Calories worth of food per person, per day. Emergency food suppl
 
 Water and food are not enough to stay nourished and healthy. Have multivitamins on hand, and iodized salt to add to food. Electrolyte drink powder and/or electrolyte-rich drinks are helpful as well.
 
+# Medical Supplies and Cleanliness
+
 ## Medicines and Medications
 
 Store an excess of any important medications and medicines. Many of these are manufactured in China, and will run out. Don't forget birth control, pain killers, allergy medications, etc.
@@ -38,3 +46,9 @@ Store an excess of any important medications and medicines. Many of these are ma
 ## Hygiene
 
 Poor hygiene can quickly be lethal. Store extra toilet paper, paper towels, and baby wipes, along with extra trash bags. Include feminine hygiene products if anyone depends on them, and any other specific hygiene products you need.
+
+## Sanitation and Sterilization
+
+Bleach is cheap and kills nearly everything. It can be used to sterilize things, sanitize water, etc. Have plenty of bleach on hand. Hand sanitizer (and the rubbing alcohol it contains) is also likely effective (and increasingly expensive and hard to find). Ozone (you can purchase ozone generators) and UV radiation (from sterilizing UV lights) are also likely to destroy the coronavirus, but are also dangerous to you (and anything alive) if misused.
+
+Regular soap is important. Wash your hands!

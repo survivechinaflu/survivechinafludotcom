@@ -1,6 +1,6 @@
 # Survive COVID-19, the China Flu!
 
-## This website is regularly being updated. Check back frequently. Share it with your family and friends.
+## This website is regularly being updated. Check back frequently. Share it with your family and friends. Helping others prepare helps you stay safe as well.
 
 Last Update: 14:14 Thursday, February 27, 2020
 
@@ -61,11 +61,31 @@ Have a supply of basic medical (first aid) supplies on hand -- bandages, Neospor
 
 Poor hygiene can quickly be lethal. Store extra toilet paper, paper towels, and baby wipes, along with extra trash bags. Include feminine hygiene products if anyone depends on them, and any other specific hygiene products you need.
 
+## Personal Safety Equipment
+
+### Gloves
+
+Powder-free medical-grade nitrile gloves should sufficiently protect your hands when used properly. (Be careful not to contaminate your hands while applying or removing gloves.)
+
+### Respirators and Masks
+
+Medical procedure masks are of some (limited) utility to avoid getting sick, but are mostly useful to avoid getting others sick. N95 respirators are significantly more effective *when worn correctly* (it should be hard to breathe) but are in extremely limited supply already. For complete protection, purchase a CBRN-rated (Chemical/Biological/Radiological/Nuclear) gas mask/respirator from a reputable company/country, and purchase new, unexpired CBRN filters to use with it.
+
+Beware of counterfeit masks! It is also critically important that you not touch the outside of your mask and then touch something else (such as your face). Misuse will completely compromise their effectiveness. Be sure that your mouth *and* nose are both completely covered!
+
+Facial hair makes respirators and masks ineffective. If you have facial hair, it's time to start clean shaving.
+
+### Other Gear
+
+If you do not have a CBRN gas mask that covers your eyes, be sure that you also include eye protection that completely covers your eyes, including from the sides.
+
+### Contaminated Clothing
+
 ## Sanitation and Sterilization
 
 Bleach is cheap and kills nearly everything. It can be used to sterilize things, sanitize water, etc. Have plenty of bleach on hand. Hand sanitizer (and the rubbing alcohol it contains) is also likely effective (and increasingly expensive and hard to find). Ozone (you can purchase ozone generators) and UV radiation (from sterilizing UV lights) are also likely to destroy the coronavirus, but are also dangerous to you (and anything alive) if misused.
 
-Regular soap is important. Wash your hands!
+Washing your hands with soap and water is still important and helpful to avoid transmitting disease into your body. Scrub them thoroughly and vigorously for a while. Clean under your nails. Clean the back of your hands. Clean your fingertips. The more you scrub, the more effectively you can dislodge viral phages from your skin. For increased effectiveness, consider buying and using a medical-grade antiseptic soap, like Hibiclens or Avagard.
 
 # Power, Heat and Light
 

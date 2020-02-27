@@ -81,7 +81,7 @@ Surefire is about as robust as you can get for flashlights.
 
 SpyderCo makes excellent pocket knives.
 
-The next step is to get training from proven schools such as Thunder Ranch and Tactical Response. Mindset, skills, and tactics are more important than gear but quality gear will help in the long run. 
+The next step, if you are willing to be around people, is to get training from proven schools such as Thunder Ranch and Tactical Response. Mindset, skills, and tactics are more important than gear but quality gear will help in the long run. Shooting at static targets at the indoor range and gun fighting are entirely different things.
 
 A rifle isn't a bad option if you don't need to worry about blantantly being armed. Get an AR-15 or an AKM with as many magazines as you can afford. Your rifle will ideally also have a sling, weapon light, and RDS (Red Dot Sight)/LPVO(Low Power Variable Optic) on it.
 

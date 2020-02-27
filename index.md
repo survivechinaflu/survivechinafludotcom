@@ -79,7 +79,11 @@ Facial hair makes respirators and masks ineffective. If you have facial hair, it
 
 If you do not have a CBRN gas mask that covers your eyes, be sure that you also include eye protection that completely covers your eyes, including from the sides.
 
+Tyvek and Tychem suits may be useful to cover the rest of your body and clothing. If you go this route, consider models that include integrated boots and a hood sized to fit respirators as well.
+
 ### Contaminated Clothing
+
+Keep in mind that personal safety equipment will become contaminated if exposed to a pathogen. Have a plan to safely dispose of used safety equipment safely without contaminating your home or other "bunker" location.
 
 ## Sanitation and Sterilization
 
@@ -94,6 +98,8 @@ A generator is useful. A generator that can run on gasoline and propane is even 
 Buy flashlights and candles. Lots.
 
 Buy lots of batteries for stuff that needs batteries (like flashlights).
+
+Consider buying solar panels that can be used to charge other things.
 
 Consider having a cheap, simple way to heat water and cook, like a propane camping stove. You can buy an adapter hose to attach 20 lb propane tanks so you don't have to have a bunch of small propane tanks.
 

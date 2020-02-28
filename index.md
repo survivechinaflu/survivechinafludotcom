@@ -2,7 +2,7 @@
 
 ## This website is regularly being updated. Check back frequently. Share it with your family and friends. Helping others prepare helps you stay safe as well.
 
-### Last Update (UTC): 01:47 Friday, February 28, 2020
+### Last Update (UTC): 02:38 Friday, February 28, 2020
 
 BE SMART AND FOLLOW ALL ADVICE AT YOUR OWN RISK! We are *not* affiliated with any company or brand listed on this site.
 
@@ -94,7 +94,7 @@ Keep in mind that equipment will become contaminated if exposed to a pathogen. H
 
 Bleach is cheap and kills nearly everything. It can be used to sterilize things, sanitize water, etc. Have plenty of bleach on hand. Hand sanitizer (and the rubbing alcohol it contains) is also likely effective (and increasingly expensive and hard to find). Ozone (you can purchase ozone generators) and UV radiation (from sterilizing UV lights) are also likely to destroy the coronavirus, but are also dangerous to you (and anything alive) if misused.
 
-Washing your hands with soap and water is still important and helpful to avoid transmitting disease into your body. Scrub them thoroughly and vigorously for a while. Clean under your nails. Clean the back of your hands. Clean your fingertips. The more you scrub, the more effectively you can dislodge viral phages from your skin. For increased effectiveness, consider buying and using a medical-grade antiseptic soap, like Hibiclens or Avagard.
+Washing your hands with soap and water is still important and helpful to avoid transmitting disease into your body. Scrub them thoroughly and vigorously for a while. Clean under your nails. Clean the back of your hands. Clean your fingertips. The more you scrub, the more effectively you can dislodge viral particles from your skin. For increased effectiveness, consider buying and using a medical-grade antiseptic soap, like Hibiclens or Avagard.
 
 # Power, Heat and Light
 

@@ -2,7 +2,7 @@
 
 ## This website is regularly being updated. Check back frequently. Share it with your family and friends. Helping others prepare helps you stay safe as well.
 
-### Last Update (UTC): 02:38 Friday, February 28, 2020
+### Last Update (UTC): 23:20 Saturday, February 29, 2020
 
 BE SMART AND FOLLOW ALL ADVICE AT YOUR OWN RISK! We are *not* affiliated with any company or brand listed on this site.
 
@@ -21,7 +21,9 @@ Remember, you can only survive:
 
 ## STOP TOUCHING YOUR FACE! WASH YOUR HANDS AFTER YOU 💩! STOP TOUCHING ABSOLUTELY EVERYTHING!
 
-Other humans are your greatest risk. Get ready to avoid them for a while (like a month or more). For now, don't travel. Don't go to big events. Don't hang out in crowds. Avoid other people and their disease whenever possible. When you have to interact with potential disease carriers, minimize that contact. Wash and sanitize your hands after being in public. Treat sick people like the plague they are. If you're sick, try not to make other people sick. Cover your mouth and nose when you cough/sneeze (with your ELBOW).
+Other humans are your greatest risk. Get ready to avoid them for a while (like a month or more). For now, don't travel. Don't go to big events. Don't hang out in crowds. Avoid other people and their disease whenever possible. When you have to interact with potential disease carriers, minimize that contact. Wash and sanitize your hands after being in public. Treat sick people like the plague they are.
+
+If you're sick, try not to make other people sick. Cover your mouth and nose when you cough/sneeze (with your ELBOW). Don't touch anything without touching your hands first. Don't touch/cough/sneeze on stuff. Don't go out in public if you can help it. Don't use public transportation. These rules apply to you if you've had any contact, or live with, anyone who is sick, too!
 
 This cannot be overstated:
 * WASH YOUR HANDS REGULARLY AND THOROUGHLY!

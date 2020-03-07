@@ -2,7 +2,7 @@
 
 ## This website is regularly being updated. Check back frequently. Share it with your family and friends. Helping others prepare helps you stay safe as well.
 
-### Last Update (UTC): 23:20 Saturday, February 29, 2020
+### Last Update (UTC): 17:27 Saturday, March 7, 2020
 
 BE SMART AND FOLLOW ALL ADVICE AT YOUR OWN RISK! We are *not* affiliated with any company or brand listed on this site.
 
@@ -44,7 +44,7 @@ Wash your food-safe water container with dish soap and water and rinse thoroughl
 
 ## Food
 
-Store at least 1200-2000 Calories worth of food per person, per day. Emergency food supplies, MREs, and freeze dried food are all excellent options. They are also mostly depleted by this point. However, it's still worth watching brands like Augason Farms, Mountain House, Wise Company, Chef's Banquet, and My Patriot Supply and snatching up emergency food supplies when available.
+Store at least 1200-2000 Calories worth of food per person, per day. Emergency food supplies, MREs, and freeze dried food are all excellent options. They are also mostly depleted by this point. However, it's still worth watching brands like Augason Farms, Mountain House, Wise Company, Chef's Banquet, My Patriot Supply, and Ready Hour, and snatching up emergency food supplies when available.
 
 Supplement with economical, shelf-stable goods like dried beans and rice, flour, etc. Consider buying from stores like Costco or commercial food suppliers (GFS, etc.). If you are depending on canned food, MAKE SURE YOU HAVE A CAN OPENER.
 
